@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns="http://schemas.microsoft.com/ado/2008/09/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="CenterModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation">
+  <EntityContainer Name="CenterModelContainer" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="BaudRateModel" EntityType="CenterModel.BaudRateModel" />
+    <EntitySet Name="CodedFormatModel" EntityType="CenterModel.CodedFormatModel" />
+    <EntitySet Name="CommPortModel" EntityType="CenterModel.CommPortModel" />
+    <EntitySet Name="CommunicationModeModel" EntityType="CenterModel.CommunicationModeModel" />
+    <EntitySet Name="DataBitModel" EntityType="CenterModel.DataBitModel" />
+    <EntitySet Name="DeviceActionModel" EntityType="CenterModel.DeviceActionModel" />
+    <EntitySet Name="DeviceModel" EntityType="CenterModel.DeviceModel" />
+    <EntitySet Name="InteractiveAreaModel" EntityType="CenterModel.InteractiveAreaModel" />
+    <EntitySet Name="IpConfigModel" EntityType="CenterModel.IpConfigModel" />
+    <EntitySet Name="IpModel" EntityType="CenterModel.IpModel" />
+    <EntitySet Name="OperateConfigModel" EntityType="CenterModel.OperateConfigModel" />
+    <EntitySet Name="ParityCheckBitModel" EntityType="CenterModel.ParityCheckBitModel" />
+    <EntitySet Name="SerialPortConfigModel" EntityType="CenterModel.SerialPortConfigModel" />
+    <EntitySet Name="StopBitModel" EntityType="CenterModel.StopBitModel" />
+  </EntityContainer>
+  <EntityType Name="BaudRateModel">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="BaudRateName" Type="String" Nullable="false" />
+  </EntityType>
+  <EntityType Name="CodedFormatModel">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CodedFormatName" Type="String" Nullable="false" />
+    <Property Name="Status" Type="String" Nullable="false" />
+  </EntityType>
+  <EntityType Name="CommPortModel">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CommPortName" Type="String" Nullable="false" />
+  </EntityType>
+  <EntityType Name="CommunicationModeModel">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CommunicationModeName" Type="String" Nullable="false" />
+    <Property Name="Status" Type="String" Nullable="false" />
+  </EntityType>
+  <EntityType Name="DataBitModel">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="DataBitName" Type="String" Nullable="false" />
+  </EntityType>
+  <EntityType Name="DeviceActionModel">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="DeviceId" Type="Int32" Nullable="false" />
+    <Property Name="ActionDate" Type="String" Nullable="false" />
+    <Property Name="Status" Type="String" Nullable="false" />
+  </EntityType>
+  <EntityType Name="DeviceModel">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="DeviceName" Type="String" Nullable="false" />
+    <Property Name="Status" Type="String" Nullable="false" />
+  </EntityType>
+  <EntityType Name="InteractiveAreaModel">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" Nullable="false" />
+    <Property Name="Status" Type="String" Nullable="false" />
+  </EntityType>
+  <EntityType Name="IpConfigModel">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="IpId" Type="Int32" Nullable="false" />
+    <Property Name="PortName" Type="String" Nullable="false" />
+  </EntityType>
+  <EntityType Name="IpModel">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="IpName" Type="String" Nullable="false" />
+  </EntityType>
+  <EntityType Name="OperateConfigModel">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="OperateName" Type="String" Nullable="false" />
+    <Property Name="CommunicationModeId" Type="Int32" Nullable="false" />
+    <Property Name="CodedFormatId" Type="Int32" Nullable="false" />
+    <Property Name="CodeControl" Type="String" Nullable="false" />
+    <Property Name="DelayTime" Type="Int32" Nullable="false" />
+    <Property Name="Status" Type="String" Nullable="false" />
+  </EntityType>
+  <EntityType Name="ParityCheckBitModel">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ParityCheckBitName" Type="String" Nullable="false" />
+  </EntityType>
+  <EntityType Name="SerialPortConfigModel">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CommPortId" Type="Int32" Nullable="false" />
+    <Property Name="BaudRateId" Type="Int32" Nullable="false" />
+    <Property Name="DataBitId" Type="Int32" Nullable="false" />
+    <Property Name="StopBitId" Type="Int32" Nullable="false" />
+    <Property Name="ParityCheckBitId" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="StopBitModel">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="StopBitName" Type="String" Nullable="false" />
+  </EntityType>
+</Schema>

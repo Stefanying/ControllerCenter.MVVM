@@ -1,0 +1,293 @@
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\ControllerCenter.MVVM.exe.config
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\ControllerCenter.MVVM.exe
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\ControllerCenter.MVVM.pdb
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\ControllerCenter.MVVM.exe.CodeAnalysisLog.xml
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\ControllerCenter.MVVM.exe.lastcodeanalysissucceeded
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\ControllerCenter.BLL.dll
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\ControllerCenter.IBLL.dll
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\ControllerCenter.Model.dll
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\EntityFramework.dll
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\EntityFramework.SqlServer.dll
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\GalaSoft.MvvmLight.dll
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\System.Windows.Interactivity.dll
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\ControllerCenter.IDAL.dll
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\ControllerCenter.DAL.dll
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\ControllerCenter.BLL.pdb
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\ControllerCenter.IBLL.pdb
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\ControllerCenter.Model.pdb
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\EntityFramework.xml
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\EntityFramework.SqlServer.xml
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\GalaSoft.MvvmLight.pdb
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\GalaSoft.MvvmLight.xml
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\System.Windows.Interactivity.xml
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\ControllerCenter.IDAL.pdb
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\ControllerCenter.DAL.pdb
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\ControllerCenter.MVVM.csprojResolveAssemblyReference.cache
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\MainWindow.baml
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\Style\ButtonVista.baml
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\Style\DataGrid.baml
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\MainWindow.g.cs
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\App.g.cs
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\ControllerCenter.MVVM_MarkupCompile.cache
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\ControllerCenter.MVVM.g.resources
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\ControllerCenter.MVVM.Properties.Resources.resources
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\ControllerCenter.MVVM.csproj.GenerateResource.Cache
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\ControllerCenter.MVVM.exe
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\ControllerCenter.MVVM.pdb
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\Welcome.baml
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\Welcome.g.cs
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\View\IpModel\IpModelInfo.g.cs
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\View\IpModel\IpModelList.g.cs
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\View\IpModel\IpModelInfo.baml
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\View\IpModel\IpModelList.baml
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\ControllerCenter.MVVM.exe.config
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\ControllerCenter.MVVM.exe
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\ControllerCenter.MVVM.pdb
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\ControllerCenter.MVVM.exe
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\ControllerCenter.MVVM.pdb
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\ControllerCenter.MVVM.exe.CodeAnalysisLog.xml
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\ControllerCenter.MVVM.exe.lastcodeanalysissucceeded
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\ControllerCenter.BLL.dll
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\ControllerCenter.IBLL.dll
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\ControllerCenter.Model.dll
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\EntityFramework.dll
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\EntityFramework.SqlServer.dll
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\GalaSoft.MvvmLight.dll
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\System.Windows.Interactivity.dll
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\ControllerCenter.IDAL.dll
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\ControllerCenter.DAL.dll
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\ControllerCenter.BLL.pdb
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\ControllerCenter.IBLL.pdb
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\ControllerCenter.Model.pdb
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\EntityFramework.xml
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\EntityFramework.SqlServer.xml
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\GalaSoft.MvvmLight.pdb
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\GalaSoft.MvvmLight.xml
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\System.Windows.Interactivity.xml
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\ControllerCenter.IDAL.pdb
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\ControllerCenter.DAL.pdb
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\ControllerCenter.MVVM.csprojResolveAssemblyReference.cache
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\MainWindow.baml
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\Style\ButtonVista.baml
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\Style\DataGrid.baml
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\View\IpModel\IpModelInfo.baml
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\View\IpModel\IpModelList.baml
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\Welcome.baml
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\MainWindow.g.cs
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\View\IpModel\IpModelInfo.g.cs
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\View\IpModel\IpModelList.g.cs
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\Welcome.g.cs
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\App.g.cs
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\ControllerCenter.MVVM_MarkupCompile.cache
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\ControllerCenter.MVVM.g.resources
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\ControllerCenter.MVVM.Properties.Resources.resources
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\ControllerCenter.MVVM.csproj.GenerateResource.Cache
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\MainWindow1.baml
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\Style\GridBord.baml
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\View\IpModel\IpModelAdd.baml
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\MainWindow1.g.cs
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\View\IpModel\IpModelAdd.g.cs
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\ControllerCenter.MVVM_MarkupCompile.lref
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\View\Home.baml
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\View\Home.g.cs
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\App.baml
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\ControllerCenter.MVVM.exe.config
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\ControllerCenter.MVVM.exe
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\ControllerCenter.MVVM.pdb
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\ControllerCenter.MVVM.csprojResolveAssemblyReference.cache
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\MainWindow1.baml
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\Style\ButtonVista.baml
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\Style\DataGrid.baml
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\Style\GridBord.baml
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\View\Home.baml
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\Welcome.baml
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\MainWindow.g.cs
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\MainWindow1.g.cs
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\View\Home.g.cs
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\Welcome.g.cs
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\App.g.cs
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\ControllerCenter.MVVM_MarkupCompile.cache
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\ControllerCenter.MVVM_MarkupCompile.lref
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\ControllerCenter.MVVM.exe
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\ControllerCenter.MVVM.pdb
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\ControllerCenter.MVVM.exe.CodeAnalysisLog.xml
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\ControllerCenter.MVVM.exe.lastcodeanalysissucceeded
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\ControllerCenter.BLL.dll
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\ControllerCenter.IBLL.dll
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\ControllerCenter.Model.dll
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\EntityFramework.dll
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\EntityFramework.SqlServer.dll
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\GalaSoft.MvvmLight.dll
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\System.Windows.Interactivity.dll
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\ControllerCenter.IDAL.dll
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\ControllerCenter.DAL.dll
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\ControllerCenter.BLL.pdb
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\ControllerCenter.IBLL.pdb
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\ControllerCenter.Model.pdb
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\EntityFramework.xml
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\EntityFramework.SqlServer.xml
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\GalaSoft.MvvmLight.pdb
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\GalaSoft.MvvmLight.xml
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\System.Windows.Interactivity.xml
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\ControllerCenter.IDAL.pdb
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\ControllerCenter.DAL.pdb
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\App.baml
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\MainWindow.baml
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\ControllerCenter.MVVM.g.resources
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\ControllerCenter.MVVM.Properties.Resources.resources
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\ControllerCenter.MVVM.csproj.GenerateResource.Cache
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\Microsoft.Practices.Prism.Composition.dll
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\Microsoft.Practices.Prism.Mvvm.Desktop.dll
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\Microsoft.Practices.Prism.Mvvm.dll
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\Microsoft.Practices.Prism.PubSubEvents.dll
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.dll
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\Microsoft.Practices.Prism.Composition.xml
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\Microsoft.Practices.Prism.Interactivity.xml
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\Microsoft.Practices.Prism.Mvvm.xml
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.xml
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\View\IpModel\Add.baml
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\View\IpModel\List.baml
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\View\IpModel\Add.g.cs
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\View\IpModel\List.g.cs
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\View\Home1.baml
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\View\Home1.g.cs
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\View\IpModel\Edit.baml
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\View\IpModel\Edit.g.cs
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\View\BaudRateModel\Add.baml
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\View\BaudRateModel\Edit.baml
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\View\BaudRateModel\List.baml
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\View\BaudRateModel\Add.g.cs
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\View\BaudRateModel\Edit.g.cs
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\View\BaudRateModel\List.g.cs
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\View\CommPortModel\Add.baml
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\View\CommPortModel\Edit.baml
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\View\CommPortModel\List.baml
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\View\CommPortModel\Add.g.cs
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\View\CommPortModel\Edit.g.cs
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\View\CommPortModel\List.g.cs
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\ControllerCenter.MVVM.exe.config
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\ControllerCenter.MVVM.exe
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\ControllerCenter.MVVM.pdb
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\ControllerCenter.MVVM.exe
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\ControllerCenter.MVVM.pdb
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\ControllerCenter.MVVM.exe.CodeAnalysisLog.xml
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\ControllerCenter.MVVM.exe.lastcodeanalysissucceeded
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\ControllerCenter.BLL.dll
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\ControllerCenter.IBLL.dll
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\ControllerCenter.Model.dll
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\EntityFramework.dll
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\EntityFramework.SqlServer.dll
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\GalaSoft.MvvmLight.dll
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\Microsoft.Practices.Prism.Composition.dll
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\Microsoft.Practices.Prism.Mvvm.Desktop.dll
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\Microsoft.Practices.Prism.Mvvm.dll
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\Microsoft.Practices.Prism.PubSubEvents.dll
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.dll
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\System.Windows.Interactivity.dll
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\ControllerCenter.IDAL.dll
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\ControllerCenter.DAL.dll
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\ControllerCenter.BLL.pdb
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\ControllerCenter.IBLL.pdb
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\ControllerCenter.Model.pdb
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\EntityFramework.xml
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\EntityFramework.SqlServer.xml
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\GalaSoft.MvvmLight.pdb
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\GalaSoft.MvvmLight.xml
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\Microsoft.Practices.Prism.Composition.xml
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\Microsoft.Practices.Prism.Interactivity.xml
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\Microsoft.Practices.Prism.Mvvm.xml
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.xml
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\System.Windows.Interactivity.xml
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\ControllerCenter.IDAL.pdb
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\ControllerCenter.DAL.pdb
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\ControllerCenter.MVVM.csprojResolveAssemblyReference.cache
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\MainWindow1.baml
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\Style\ButtonVista.baml
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\Style\DataGrid.baml
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\Style\GridBord.baml
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\View\BaudRateModel\Add.baml
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\View\BaudRateModel\Edit.baml
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\View\BaudRateModel\List.baml
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\View\CommPortModel\Add.baml
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\View\CommPortModel\Edit.baml
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\View\CommPortModel\List.baml
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\View\Home.baml
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\View\Home1.baml
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\View\IpModel\Add.baml
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\View\IpModel\Edit.baml
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\View\IpModel\List.baml
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\Welcome.baml
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\MainWindow.g.cs
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\MainWindow1.g.cs
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\View\BaudRateModel\Add.g.cs
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\View\BaudRateModel\Edit.g.cs
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\View\BaudRateModel\List.g.cs
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\View\CommPortModel\Add.g.cs
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\View\CommPortModel\Edit.g.cs
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\View\CommPortModel\List.g.cs
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\View\Home.g.cs
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\View\Home1.g.cs
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\View\IpModel\Add.g.cs
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\View\IpModel\Edit.g.cs
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\View\IpModel\List.g.cs
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\Welcome.g.cs
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\App.g.cs
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\ControllerCenter.MVVM_MarkupCompile.cache
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\ControllerCenter.MVVM_MarkupCompile.lref
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\App.baml
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\MainWindow.baml
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\ControllerCenter.MVVM.g.resources
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\ControllerCenter.MVVM.Properties.Resources.resources
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\ControllerCenter.MVVM.csproj.GenerateResource.Cache
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\View\DataBitModel\Add.baml
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\View\DataBitModel\Edit.baml
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\View\DataBitModel\List.baml
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\View\DataBitModel\Add.g.cs
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\View\DataBitModel\Edit.g.cs
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\View\DataBitModel\List.g.cs
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\View\StopBitModel\Add.baml
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\View\StopBitModel\Edit.baml
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\View\StopBitModel\List.baml
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\View\StopBitModel\Add.g.cs
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\View\StopBitModel\Edit.g.cs
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\View\StopBitModel\List.g.cs
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\View\ParityCheckBitModel\Add.baml
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\View\ParityCheckBitModel\Edit.baml
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\View\ParityCheckBitModel\List.baml
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\View\ParityCheckBitModel\Add.g.cs
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\View\ParityCheckBitModel\Edit.g.cs
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.MVVM\obj\Debug\View\ParityCheckBitModel\List.g.cs

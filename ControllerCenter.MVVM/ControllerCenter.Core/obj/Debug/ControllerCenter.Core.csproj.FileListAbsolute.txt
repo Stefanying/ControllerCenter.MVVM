@@ -1,0 +1,5 @@
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.Core\bin\Debug\ControllerCenter.Core.dll
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.Core\bin\Debug\ControllerCenter.Core.pdb
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.Core\obj\Debug\ControllerCenter.Core.csprojResolveAssemblyReference.cache
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.Core\obj\Debug\ControllerCenter.Core.dll
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.Core\obj\Debug\ControllerCenter.Core.pdb

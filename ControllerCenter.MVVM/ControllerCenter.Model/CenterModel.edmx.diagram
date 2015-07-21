@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="2.0" xmlns:edmx="http://schemas.microsoft.com/ado/2008/10/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2008/10/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="e214aa9fd0d84caaa4b0c77e80ed6d29" Name="Diagram1" >
+        <EntityTypeShape EntityType="CenterModel.BaudRateModel" Width="1.5" PointX="0.75" PointY="0.5" />
+        <EntityTypeShape EntityType="CenterModel.CodedFormatModel" Width="2.875" PointX="5.25" PointY="0.5" />
+        <EntityTypeShape EntityType="CenterModel.CommPortModel" Width="2.25" PointX="2.5" PointY="0.5" />
+        <EntityTypeShape EntityType="CenterModel.CommunicationModeModel" Width="2.25" PointX="8.5" PointY="0.625" />
+        <EntityTypeShape EntityType="CenterModel.DataBitModel" Width="1.5" PointX="0.75" PointY="2.75" />
+        <EntityTypeShape EntityType="CenterModel.DeviceActionModel" Width="1.5" PointX="3" PointY="2.625" />
+        <EntityTypeShape EntityType="CenterModel.DeviceModel" Width="1.5" PointX="5.125" PointY="2.625" />
+        <EntityTypeShape EntityType="CenterModel.InteractiveAreaModel" Width="1.5" PointX="7.25" PointY="2.75" />
+        <EntityTypeShape EntityType="CenterModel.IpConfigModel" Width="1.5" PointX="9.25" PointY="2.75" />
+        <EntityTypeShape EntityType="CenterModel.IpModel" Width="1.5" PointX="0.625" PointY="4.875" />
+        <EntityTypeShape EntityType="CenterModel.OperateConfigModel" Width="3.25" PointX="2.75" PointY="5" />
+        <EntityTypeShape EntityType="CenterModel.ParityCheckBitModel" Width="1.5" PointX="6.125" PointY="5" />
+        <EntityTypeShape EntityType="CenterModel.SerialPortConfigModel" Width="1.5" PointX="7.875" PointY="4.875" />
+        <EntityTypeShape EntityType="CenterModel.StopBitModel" Width="1.5" PointX="10.25" PointY="5.375" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

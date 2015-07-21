@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="CenterModelStoreContainer" CdmEntityContainer="CenterModelContainer">
+    <EntitySetMapping Name="BaudRateModel">
+      <EntityTypeMapping TypeName="IsTypeOf(CenterModel.BaudRateModel)">
+        <MappingFragment StoreEntitySet="BaudRateModel">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="BaudRateName" ColumnName="BaudRateName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CodedFormatModel">
+      <EntityTypeMapping TypeName="IsTypeOf(CenterModel.CodedFormatModel)">
+        <MappingFragment StoreEntitySet="CodedFormatModel">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="CodedFormatName" ColumnName="CodedFormatName" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CommPortModel">
+      <EntityTypeMapping TypeName="IsTypeOf(CenterModel.CommPortModel)">
+        <MappingFragment StoreEntitySet="CommPortModel">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="CommPortName" ColumnName="CommPortName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CommunicationModeModel">
+      <EntityTypeMapping TypeName="IsTypeOf(CenterModel.CommunicationModeModel)">
+        <MappingFragment StoreEntitySet="CommunicationModeModel">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="CommunicationModeName" ColumnName="CommunicationModeName" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DataBitModel">
+      <EntityTypeMapping TypeName="IsTypeOf(CenterModel.DataBitModel)">
+        <MappingFragment StoreEntitySet="DataBitModel">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="DataBitName" ColumnName="DataBitName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DeviceActionModel">
+      <EntityTypeMapping TypeName="IsTypeOf(CenterModel.DeviceActionModel)">
+        <MappingFragment StoreEntitySet="DeviceActionModel">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="DeviceId" ColumnName="DeviceId" />
+          <ScalarProperty Name="ActionDate" ColumnName="ActionDate" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DeviceModel">
+      <EntityTypeMapping TypeName="IsTypeOf(CenterModel.DeviceModel)">
+        <MappingFragment StoreEntitySet="DeviceModel">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="DeviceName" ColumnName="DeviceName" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="InteractiveAreaModel">
+      <EntityTypeMapping TypeName="IsTypeOf(CenterModel.InteractiveAreaModel)">
+        <MappingFragment StoreEntitySet="InteractiveAreaModel">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="IpConfigModel">
+      <EntityTypeMapping TypeName="IsTypeOf(CenterModel.IpConfigModel)">
+        <MappingFragment StoreEntitySet="IpConfigModel">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="IpId" ColumnName="IpId" />
+          <ScalarProperty Name="PortName" ColumnName="PortName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="IpModel">
+      <EntityTypeMapping TypeName="IsTypeOf(CenterModel.IpModel)">
+        <MappingFragment StoreEntitySet="IpModel">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="IpName" ColumnName="IpName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="OperateConfigModel">
+      <EntityTypeMapping TypeName="IsTypeOf(CenterModel.OperateConfigModel)">
+        <MappingFragment StoreEntitySet="OperateConfigModel">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="OperateName" ColumnName="OperateName" />
+          <ScalarProperty Name="CommunicationModeId" ColumnName="CommunicationModeId" />
+          <ScalarProperty Name="CodedFormatId" ColumnName="CodedFormatId" />
+          <ScalarProperty Name="CodeControl" ColumnName="CodeControl" />
+          <ScalarProperty Name="DelayTime" ColumnName="DelayTime" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ParityCheckBitModel">
+      <EntityTypeMapping TypeName="IsTypeOf(CenterModel.ParityCheckBitModel)">
+        <MappingFragment StoreEntitySet="ParityCheckBitModel">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="ParityCheckBitName" ColumnName="ParityCheckBitName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SerialPortConfigModel">
+      <EntityTypeMapping TypeName="IsTypeOf(CenterModel.SerialPortConfigModel)">
+        <MappingFragment StoreEntitySet="SerialPortConfigModel">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="CommPortId" ColumnName="CommPortId" />
+          <ScalarProperty Name="BaudRateId" ColumnName="BaudRateId" />
+          <ScalarProperty Name="DataBitId" ColumnName="DataBitId" />
+          <ScalarProperty Name="StopBitId" ColumnName="StopBitId" />
+          <ScalarProperty Name="ParityCheckBitId" ColumnName="ParityCheckBitId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="StopBitModel">
+      <EntityTypeMapping TypeName="IsTypeOf(CenterModel.StopBitModel)">
+        <MappingFragment StoreEntitySet="StopBitModel">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="StopBitName" ColumnName="StopBitName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

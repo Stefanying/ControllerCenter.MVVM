@@ -1,0 +1,64 @@
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.DAL\bin\Debug\ControllerCenter.DAL.dll.config
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.DAL\bin\Debug\ControllerCenter.DAL.dll
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.DAL\bin\Debug\ControllerCenter.DAL.pdb
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.DAL\bin\Debug\ControllerCenter.IDAL.dll
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.DAL\bin\Debug\ControllerCenter.Model.dll
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.DAL\bin\Debug\EntityFramework.dll
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.DAL\bin\Debug\ControllerCenter.IDAL.pdb
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.DAL\bin\Debug\ControllerCenter.Model.pdb
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.DAL\bin\Debug\EntityFramework.xml
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.DAL\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.DAL\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.DAL\obj\Debug\ControllerCenter.DAL.csprojResolveAssemblyReference.cache
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.DAL\obj\Debug\ControllerCenter.DAL.dll
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.DAL\obj\Debug\ControllerCenter.DAL.pdb
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.DAL\bin\Debug\ControllerCenter.DAL.dll.config
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.DAL\bin\Debug\ControllerCenter.DAL.dll
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.DAL\bin\Debug\ControllerCenter.DAL.pdb
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.DAL\bin\Debug\ControllerCenter.IDAL.dll
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.DAL\bin\Debug\ControllerCenter.Model.dll
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.DAL\bin\Debug\EntityFramework.dll
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.DAL\bin\Debug\ControllerCenter.IDAL.pdb
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.DAL\bin\Debug\ControllerCenter.Model.pdb
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.DAL\bin\Debug\EntityFramework.xml
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.DAL\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.DAL\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.DAL\obj\Debug\ControllerCenter.DAL.csprojResolveAssemblyReference.cache
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.DAL\obj\Debug\ControllerCenter.DAL.dll
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.DAL\obj\Debug\ControllerCenter.DAL.pdb
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.DAL\obj\Debug\ControllerCenter.DAL.csprojResolveAssemblyReference.cache
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.DAL\obj\Debug\ControllerCenter.DAL.dll
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.DAL\obj\Debug\ControllerCenter.DAL.pdb
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.DAL\bin\Debug\ControllerCenter.DAL.dll.config
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.DAL\bin\Debug\ControllerCenter.DAL.dll
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.DAL\bin\Debug\ControllerCenter.DAL.pdb
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.DAL\bin\Debug\ControllerCenter.IDAL.dll
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.DAL\bin\Debug\ControllerCenter.Model.dll
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.DAL\bin\Debug\EntityFramework.dll
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.DAL\bin\Debug\ControllerCenter.IDAL.pdb
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.DAL\bin\Debug\ControllerCenter.Model.pdb
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.DAL\bin\Debug\EntityFramework.xml
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.DAL\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.DAL\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.DAL\bin\Debug\ControllerCenter.DAL.dll.config
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.DAL\bin\Debug\ControllerCenter.DAL.dll
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.DAL\bin\Debug\ControllerCenter.DAL.pdb
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.DAL\bin\Debug\ControllerCenter.IDAL.dll
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.DAL\bin\Debug\ControllerCenter.Model.dll
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.DAL\bin\Debug\EntityFramework.dll
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.DAL\bin\Debug\ControllerCenter.IDAL.pdb
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.DAL\bin\Debug\ControllerCenter.Model.pdb
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.DAL\bin\Debug\EntityFramework.xml
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.DAL\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.DAL\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.DAL\obj\Debug\ControllerCenter.DAL.csprojResolveAssemblyReference.cache
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.DAL\obj\Debug\ControllerCenter.DAL.dll
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.DAL\obj\Debug\ControllerCenter.DAL.pdb

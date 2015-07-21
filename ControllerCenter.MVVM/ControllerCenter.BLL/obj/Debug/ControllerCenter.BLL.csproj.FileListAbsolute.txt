@@ -1,0 +1,64 @@
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.BLL\bin\Debug\ControllerCenter.BLL.dll
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.BLL\bin\Debug\ControllerCenter.BLL.pdb
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.BLL\bin\Debug\ControllerCenter.DAL.dll
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.BLL\bin\Debug\ControllerCenter.IBLL.dll
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.BLL\bin\Debug\ControllerCenter.IDAL.dll
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.BLL\bin\Debug\ControllerCenter.Model.dll
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.BLL\bin\Debug\EntityFramework.dll
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.BLL\bin\Debug\ControllerCenter.DAL.pdb
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.BLL\bin\Debug\ControllerCenter.IBLL.pdb
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.BLL\bin\Debug\ControllerCenter.IDAL.pdb
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.BLL\bin\Debug\ControllerCenter.Model.pdb
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.BLL\bin\Debug\EntityFramework.xml
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.BLL\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.BLL\obj\Debug\ControllerCenter.BLL.csprojResolveAssemblyReference.cache
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.BLL\obj\Debug\ControllerCenter.BLL.dll
+E:\users\asus\documents\visual studio 2013\ControllerCenter\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.BLL\obj\Debug\ControllerCenter.BLL.pdb
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.BLL\bin\Debug\ControllerCenter.BLL.dll
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.BLL\bin\Debug\ControllerCenter.BLL.pdb
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.BLL\bin\Debug\ControllerCenter.DAL.dll
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.BLL\bin\Debug\ControllerCenter.IBLL.dll
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.BLL\bin\Debug\ControllerCenter.IDAL.dll
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.BLL\bin\Debug\ControllerCenter.Model.dll
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.BLL\bin\Debug\EntityFramework.dll
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.BLL\bin\Debug\ControllerCenter.DAL.pdb
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.BLL\bin\Debug\ControllerCenter.IBLL.pdb
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.BLL\bin\Debug\ControllerCenter.IDAL.pdb
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.BLL\bin\Debug\ControllerCenter.Model.pdb
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.BLL\bin\Debug\EntityFramework.xml
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.BLL\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.BLL\obj\Debug\ControllerCenter.BLL.csprojResolveAssemblyReference.cache
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.BLL\obj\Debug\ControllerCenter.BLL.dll
+E:\BaiduYunDownload\ControllerCenter\ControllerCenter.MVVM\ControllerCenter.BLL\obj\Debug\ControllerCenter.BLL.pdb
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.BLL\bin\Debug\ControllerCenter.BLL.dll
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.BLL\bin\Debug\ControllerCenter.BLL.pdb
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.BLL\bin\Debug\ControllerCenter.DAL.dll
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.BLL\bin\Debug\ControllerCenter.IBLL.dll
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.BLL\bin\Debug\ControllerCenter.IDAL.dll
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.BLL\bin\Debug\ControllerCenter.Model.dll
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.BLL\bin\Debug\EntityFramework.dll
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.BLL\bin\Debug\ControllerCenter.DAL.pdb
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.BLL\bin\Debug\ControllerCenter.IBLL.pdb
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.BLL\bin\Debug\ControllerCenter.IDAL.pdb
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.BLL\bin\Debug\ControllerCenter.Model.pdb
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.BLL\bin\Debug\EntityFramework.xml
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.BLL\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.BLL\obj\Debug\ControllerCenter.BLL.csprojResolveAssemblyReference.cache
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.BLL\obj\Debug\ControllerCenter.BLL.dll
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.BLL\obj\Debug\ControllerCenter.BLL.pdb
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.BLL\bin\Debug\ControllerCenter.BLL.dll
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.BLL\bin\Debug\ControllerCenter.BLL.pdb
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.BLL\bin\Debug\ControllerCenter.DAL.dll
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.BLL\bin\Debug\ControllerCenter.IBLL.dll
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.BLL\bin\Debug\ControllerCenter.IDAL.dll
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.BLL\bin\Debug\ControllerCenter.Model.dll
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.BLL\bin\Debug\EntityFramework.dll
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.BLL\bin\Debug\ControllerCenter.DAL.pdb
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.BLL\bin\Debug\ControllerCenter.IBLL.pdb
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.BLL\bin\Debug\ControllerCenter.IDAL.pdb
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.BLL\bin\Debug\ControllerCenter.Model.pdb
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.BLL\bin\Debug\EntityFramework.xml
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.BLL\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.BLL\obj\Debug\ControllerCenter.BLL.csprojResolveAssemblyReference.cache
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.BLL\obj\Debug\ControllerCenter.BLL.dll
+E:\MyProject\ControllerCenter.MVVM\ControllerCenter.MVVM\ControllerCenter.BLL\obj\Debug\ControllerCenter.BLL.pdb

@@ -1,0 +1,26 @@
+﻿<Window x:Class="ControllerCenter.MVVM.View.IpModel.IpModelInfo"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:controls="clr-namespace:System.Windows.Controls;assembly=System.Windows.Controls" 
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d"
+	  Title="AddIpModel" Width="auto"  Height="auto" WindowStyle="None" WindowStartupLocation="CenterScreen" >
+    <Window.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="/Style/GridBord.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Window.Resources>
+    <Grid Name="gridBuildingNew" Margin="10,30,10,0" Grid.Column="1" Height="140" VerticalAlignment="Top">
+        <Rectangle Style="{DynamicResource GridBord}"/>
+        <Label Content="详情" HorizontalAlignment="Left" Margin="29,-14,0,0" VerticalAlignment="Top" Background="White" FontSize="16" RenderTransformOrigin="0.5,0.5" Width="41"/>
+        <Label Content="序号" HorizontalAlignment="Left" Width="70" Height="25" VerticalAlignment="Top" Margin="0,30,0,0"/>
+        <Label Name="newIDNameLabel" Content="0" Margin="75,30,10,0" Height="25" VerticalAlignment="Top" VerticalContentAlignment="Center"/>
+        <Label Content="IP地址" HorizontalAlignment="Left" Width="70" Height="25" VerticalAlignment="Top" Margin="0,68,0,0"/>
+        <Label Name="newIPNameTextBox" Content="1.0.0.0" Margin="75,68,10,0" Height="25" VerticalAlignment="Top" VerticalContentAlignment="Center"/>
+        <Button Name="btnEdit" Content="编辑" Margin="0,0,160,10" Style="{StaticResource NormalButtonStyle}" Background="#007ACC" HorizontalAlignment="Right" Width="75" Height="29" VerticalAlignment="Bottom" Click="btnEdit_Click"/>
+        <Button Name="btnDel" Content="删除" Margin="0,0,36,10" Style="{StaticResource NormalButtonStyle}" Background="#007ACC" HorizontalAlignment="Right" Width="75" Height="29" VerticalAlignment="Bottom" Click="btnDel_Click"/>
+    </Grid>
+</Window>

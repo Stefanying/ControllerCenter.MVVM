@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E34997EE-7D5D-4A7B-8458-2E4FC06FD36F}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ControllerCenter.BLL</RootNamespace>
+    <AssemblyName>ControllerCenter.BLL</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BaseService.cs" />
+    <Compile Include="CommPortModelService.cs" />
+    <Compile Include="BaudRateModelService.cs" />
+    <Compile Include="DataBitModelService.cs" />
+    <Compile Include="ParityCheckBitModelService.cs" />
+    <Compile Include="StopBitModelService.cs" />
+    <Compile Include="IpModelService.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ControllerCenter.DAL\ControllerCenter.DAL.csproj">
+      <Project>{252cc6f8-b771-428b-bf62-02d9f075cbf8}</Project>
+      <Name>ControllerCenter.DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ControllerCenter.IBLL\ControllerCenter.IBLL.csproj">
+      <Project>{2015e8d2-7561-48ba-9400-0b8753152a98}</Project>
+      <Name>ControllerCenter.IBLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ControllerCenter.IDAL\ControllerCenter.IDAL.csproj">
+      <Project>{a27212c6-eb43-466a-816c-77c27f878079}</Project>
+      <Name>ControllerCenter.IDAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ControllerCenter.Model\ControllerCenter.Model.csproj">
+      <Project>{45b2b799-4aa5-42a7-8f62-d8971f47431c}</Project>
+      <Name>ControllerCenter.Model</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

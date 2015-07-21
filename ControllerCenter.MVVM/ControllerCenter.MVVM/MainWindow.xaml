@@ -1,0 +1,65 @@
+﻿<Window x:Class="ControllerCenter.MVVM.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ControllerCenter.MVVM"
+        mc:Ignorable="d" Style="{StaticResource WindowStyle}"
+        Title="MainWindow" Height="570" Width="930" ResizeMode="CanResizeWithGrip"
+        MouseLeftButtonDown="Window_MouseLeftButtonDown"
+        MinHeight="728" MinWidth="1024" WindowStartupLocation="CenterScreen">
+    <Window.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="/Style/GridBord.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Window.Resources>
+    <Grid Margin="5">
+        <Grid>
+            <Grid Background="#007ACC">
+                <Label x:Name="titleLbl" Content="中控系统" HorizontalAlignment="Left" VerticalAlignment="Top" VerticalContentAlignment="Center" FontSize="36" Foreground="White" Width="200" HorizontalContentAlignment="Center" BorderBrush="White" FontFamily="ZHSRXT-GBK" Height="45" Margin="0,10,0,0"/>
+                <Label x:Name="versionLbl" Content="VERSION BETA 1.0" HorizontalAlignment="Left" Margin="28,55,0,0" VerticalAlignment="Top" VerticalContentAlignment="Center" Foreground="White" Width="144" HorizontalContentAlignment="Center" BorderBrush="White" FontFamily="ZHSRXT-GBK" FontSize="12" BorderThickness="0,0,0,1" Height="30"/>
+                <Label Name="menuBtn" Background="#007ACC"  MinWidth="200" HorizontalAlignment="Left" Width="200"  Margin="0,90,0,0" >
+                    <StackPanel Orientation="Vertical" Margin="20,0,0,0" HorizontalAlignment="Center" >
+                        <TreeView  HorizontalAlignment="Left" Background="#007ACC" Foreground="White" FontSize="24" >
+                            <TreeViewItem Header="首页" Name="Home" Foreground="White" >
+                                <Button Content="首页" Command="{Binding ShowMyHomeWindowCommand}" Width="50"/>
+                            </TreeViewItem>
+                            <TreeViewItem Header="设置" Name="Config"  Foreground="White" FontSize="24">
+                                <Button Content="IP配置" Command="{Binding ShowIPConfigWindowCommand}" Width="50"/>
+                                <Button Content="波特率配置" Command="{Binding ShowBaudRateModelWindowCommand}" Width="50"/>
+                                <Button Content="端口号配置" Command="{Binding ShowCommPortModelWindowCommand}" Width="50"/>
+                                <Button Content="数据位配置" Command="{Binding ShowDataBitModelWindowCommand}" Width="50"/>
+                                <Button Content="停止位配置" Command="{Binding ShowStopBitModelWindowCommand}" Width="50"/>
+                                <Button Content="校验位配置" Command="{Binding ShowParityCheckBitModelWindowCommand}" Width="50"/>
+                            </TreeViewItem>
+                            <TreeViewItem Header="中控设置" Foreground="White" FontSize="24">
+                                <TreeViewItem Header="展厅配置" FontSize="16" Foreground="White"   />
+                                <TreeViewItem Header="控制器配置" FontSize="16" Foreground="White"   />
+                                <TreeViewItem Header="命令配置" FontSize="16" Foreground="White"   />
+                            </TreeViewItem>
+                        </TreeView>
+                    </StackPanel>
+                </Label>
+                <DockPanel x:Name="ChildrenWinContent" HorizontalAlignment="Stretch" 
+                           Margin="200,22,0,0"  Background="White">
+                </DockPanel>
+                   
+                
+                <!--<Label Name="MainFrame" Margin="200,22,0,0"  BorderBrush="White" Background="White">
+                    <Frame Name="myFrame" NavigationUIVisibility="Hidden"></Frame>
+                </Label>-->
+                <Button x:Name="logout" Content="注销" FontSize="15" VerticalAlignment="Bottom" Style="{StaticResource NormalButtonStyle}" MinHeight="45" HorizontalAlignment="Left" Width="200" Margin="0,0,0,10" Background="{x:Null}"/>
+
+                <Button x:Name="closeButton" Content="×" HorizontalAlignment="Right" Margin="0,0,0,0" VerticalAlignment="Top" Width="22" Height="22" Background="{x:Null}" Foreground="Black" BorderBrush="{x:Null}" FontSize="15" Style="{StaticResource DangerButtonStyle}" Click="closeButton_Click"/>
+                <Button x:Name="maxSizeButton" Content="□" Margin="0,0,22,0" VerticalAlignment="Top" Height="22" Background="{x:Null}" Foreground="Black" BorderBrush="{x:Null}" FontSize="15" Style="{StaticResource NormalButtonStyle}" Click="maxSizButton_Click" HorizontalAlignment="Right" Width="22"/>
+                <Button x:Name="miniSizeButton" Content="_" Margin="0,0,44,0" VerticalAlignment="Top" Height="22" Background="{x:Null}" Foreground="Black" BorderBrush="{x:Null}" FontSize="15" Style="{StaticResource NormalButtonStyle}" Click="miniSizButton_Click" HorizontalAlignment="Right" Width="22"/>
+            </Grid>
+            </Grid>
+        <Border Name="childWindow" Visibility="{Binding WindowVisibility}" Background="#88000000" >
+            <ContentControl Content="{Binding XmlContent}" HorizontalAlignment="Center" VerticalAlignment="Center" HorizontalContentAlignment="Stretch" VerticalContentAlignment="Stretch"></ContentControl>
+        </Border>
+    </Grid>
+
+</Window>
